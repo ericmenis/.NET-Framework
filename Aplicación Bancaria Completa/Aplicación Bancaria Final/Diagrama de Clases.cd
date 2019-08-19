@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Banca.CControladora">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Controlador\CControladora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banca.CCAhorro">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\CCAhorro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banca.CCCorriente">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAACAAAQAAAQAAAAAAAQAAABAAAQAAABAAA=</HashCode>
+      <FileName>Modelo\CCCorriente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banca.CCuenta">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAIAAAgAgQyAAAQAAIIgAAAAACAABIwBAACgAA=</HashCode>
+      <FileName>Modelo\CCuenta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Banca.CCuentas">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAIAAAAAAQAAAQCAAIAAAAQAABABIgAAAAgAA=</HashCode>
+      <FileName>Modelo\CCuentas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Banca.CInterfaz">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Vista\CInterfaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Banca.ICapitalizable">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\ICapitalizable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Banca.IDateable">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modelo\IDateable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
