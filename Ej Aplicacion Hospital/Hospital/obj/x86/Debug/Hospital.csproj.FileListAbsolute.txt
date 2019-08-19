@@ -1,0 +1,10 @@
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\obj\x86\Debug\Hospital.exe
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\obj\x86\Debug\Hospital.pdb
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\bin\Debug\Hospital.exe
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\bin\Debug\Hospital.pdb
+C:\Users\Usua1\Desktop\Hospital\Hospital\Hospital\obj\x86\Debug\Hospital.exe
+C:\Users\Usua1\Desktop\Hospital\Hospital\Hospital\obj\x86\Debug\Hospital.pdb
+C:\Users\Usua1\Desktop\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\Usua1\Desktop\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\ROMER\Dropbox\TM 2ºC 2016\Ejercicios\Ejemplo Parcial Final\Hospital\Hospital\obj\x86\Debug\Hospital.exe
+C:\Users\ROMER\Dropbox\TM 2ºC 2016\Ejercicios\Ejemplo Parcial Final\Hospital\Hospital\obj\x86\Debug\Hospital.pdb

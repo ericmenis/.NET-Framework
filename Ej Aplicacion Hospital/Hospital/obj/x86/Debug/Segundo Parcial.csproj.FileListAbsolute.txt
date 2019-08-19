@@ -1,0 +1,12 @@
+C:\Users\Sebastian\AppData\Local\Temporary Projects\Segundo Parcial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Segundo Parcial\Segundo Parcial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.exe
+C:\Users\Sebastian\Desktop\Segundo Parcial\Segundo Parcial\bin\Debug\Segundo Parcial.pdb
+C:\Users\Sebastian\Desktop\Segundo Parcial\Segundo Parcial\obj\x86\Debug\Segundo Parcial.exe
+C:\Users\Sebastian\Desktop\Segundo Parcial\Segundo Parcial\obj\x86\Debug\Segundo Parcial.pdb
+C:\Users\Usua1\Desktop\2° Parcial\Segundo Parcial\Segundo Parcial\obj\x86\Debug\Segundo Parcial.exe
+C:\Users\Usua1\Desktop\2° Parcial\Segundo Parcial\Segundo Parcial\obj\x86\Debug\Segundo Parcial.pdb
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\bin\Debug\Hospital.exe
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\bin\Debug\Hospital.pdb
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\obj\x86\Debug\Hospital.exe
+C:\Users\Usua1\Desktop\Hospital\Hospital\Segundo Parcial\obj\x86\Debug\Hospital.pdb
